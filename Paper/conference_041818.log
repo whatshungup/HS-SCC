@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.18)  2 JUN 2018 17:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.18)  2 JUN 2018 19:19
 entering extended mode
 **./conference_041818.tex
 (conference_041818.tex
@@ -803,32 +803,32 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-Underfull \hbox (badness 7099) in paragraph at lines 39--47
+Underfull \hbox (badness 7099) in paragraph at lines 41--49
 []\OT1/ptm/m/n/10 Motivation Rollen: - RML seit Jahrzehn-ten un-ter-
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 39--47
+Underfull \hbox (badness 3713) in paragraph at lines 41--49
 \OT1/ptm/m/n/10 sucht -> Poten-zial - ber[]ucksichtigen Kon-textabh[]angiges
  []
 
 
-Underfull \hbox (badness 2181) in paragraph at lines 39--47
+Underfull \hbox (badness 2181) in paragraph at lines 41--49
 \OT1/ptm/m/n/10 und kol-lab-o-ra-tives Ver-hal-ten von Ob-jek-ten - Bre-ite an
  []
 
 
-Underfull \hbox (badness 4024) in paragraph at lines 39--47
+Underfull \hbox (badness 4024) in paragraph at lines 41--49
 \OT1/ptm/m/n/10 Bere-ichen: Daten-mod-elle, Konzept-mod-elle, Pro-gram-mier-
  []
 
 
-Underfull \hbox (badness 2285) in paragraph at lines 39--47
+Underfull \hbox (badness 2285) in paragraph at lines 41--49
 \OT1/ptm/m/n/10 sprache, - Ak-tuelle Soft-ware: zunehmend kom-plex und
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 39--47
+Underfull \hbox (badness 3590) in paragraph at lines 41--49
 \OT1/ptm/m/n/10 Kon-textabh[]angig(offen,verteilt) -> Nach-frage nach OOP-
  []
 
@@ -851,17 +851,17 @@ Before submitting the final camera ready copy, remember to:
 Here is how much of TeX's memory you used:
  4703 strings out of 493328
  65578 string characters out of 3139127
- 135769 words of memory out of 3000000
+ 136769 words of memory out of 3000000
  8182 multiletter control sequences out of 15000+200000
  33007 words of font info for 62 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,8n,35p,306b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,8n,35p,336b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.e
 nc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on conference_041818.pdf (1 page, 55980 bytes).
+Output written on conference_041818.pdf (1 page, 59752 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
