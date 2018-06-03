@@ -2602,7 +2602,7 @@
 \def\contentsname{Contents}
 \def\listfigurename{List of Figures}
 \def\listtablename{List of Tables}
-\def\refname{References}
+\def\refname{Literaturverweise}
 \def\indexname{Index}
 \def\figurename{Fig.}
 \def\tablename{TABLE}
@@ -2611,7 +2611,7 @@
 \def\appendixname{Appendix}
 \def\abstractname{Abstract}
 % IEEE specific names
-\def\IEEEkeywordsname{Index Terms}
+\def\IEEEkeywordsname{Stichwörter}
 \def\IEEEproofname{Proof}
 
 
@@ -4366,7 +4366,24 @@ between column types.}%
     \space\number\day, \number\year}
 
 
+% V1.6 we create hooks for the optional use of Donald Arseneau's
+% cite.sty package. cite.sty is "smart" and will notice that the
+% following format controls are already defined and will not
+% redefine them. The result will be the proper sorting of the
+% citation numbers and auto detection of 3 or more entry "ranges" -
+% all in IEEE style:  [1], [2], [5]--[7], [12]
+% This also allows for an optional note, i.e., \cite[mynote]{..}.
+% If the \cite with note has more than one reference, the note will
+% be applied to the last of the listed references. It is generally
+% desired that if a note is given, only one reference is listed in
+% that \cite.
+% Thanks to Mr. Arseneau for providing the required format arguments
+% to produce the IEEE style.
+\def\citepunct{], [}
+\def\citedash{]--[}
 
+% V1.7 default to using same font for urls made by url.sty
+\AtBeginDocument{\csname url@samestyle\endcsname}
 
 %% CITATION AND BIBLIOGRAPHY COMMANDS
 %% 
@@ -4386,24 +4403,6 @@ between column types.}%
          {Citation `\@citeb' on page \thepage \space undefined}}%
        {\hbox{\csname b@\@citeb\endcsname}}}}{#1}}
 
-% V1.6 we create hooks for the optional use of Donald Arseneau's
-% cite.sty package. cite.sty is "smart" and will notice that the
-% following format controls are already defined and will not
-% redefine them. The result will be the proper sorting of the
-% citation numbers and auto detection of 3 or more entry "ranges" -
-% all in IEEE style:  [1], [2], [5]--[7], [12]
-% This also allows for an optional note, i.e., \cite[mynote]{..}.
-% If the \cite with note has more than one reference, the note will
-% be applied to the last of the listed references. It is generally
-% desired that if a note is given, only one reference is listed in
-% that \cite.
-% Thanks to Mr. Arseneau for providing the required format arguments
-% to produce the IEEE style.
-\def\citepunct{], [}
-\def\citedash{]--[}
-
-% V1.7 default to using same font for urls made by url.sty
-\AtBeginDocument{\csname url@samestyle\endcsname}
 
 % V1.6 class files should always provide these
 \def\newblock{\hskip .11em\@plus.33em\@minus.07em}
