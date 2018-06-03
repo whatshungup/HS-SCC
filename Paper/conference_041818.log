@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.7.7)  3 JUN 2018 16:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.7.7)  3 JUN 2018 17:32
 entering extended mode
 **./conference_041818.tex
 (conference_041818.tex
@@ -802,17 +802,6 @@ G,.JBIG2,.JB2,.eps]
 Missing character: There is no Ã in font ptmbi7t!
 Missing character: There is no ¶ in font ptmbi7t!
 
-
-LaTeX Warning: Citation `family' on page 1 undefined on input line 37.
-
-
-Underfull \hbox (badness 1622) in paragraph at lines 36--44
-\OT1/ptm/m/n/10 (Loebe 2005 ; Guar-ino und welty 2009, Halpin 2005;
- []
-
-
-LaTeX Warning: Citation `bachman' on page 1 undefined on input line 114.
-
 (conference_041818.bbl)
 
 ** Conference Paper **
@@ -828,27 +817,21 @@ Before submitting the final camera ready copy, remember to:
 [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-] (conference_041818.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+] (conference_041818.aux) ) 
 Here is how much of TeX's memory you used:
- 4692 strings out of 493335
- 65281 string characters out of 3139264
- 135315 words of memory out of 3000000
- 8163 multiletter control sequences out of 15000+200000
- 34114 words of font info for 63 fonts, out of 3000000 for 9000
+ 4696 strings out of 493335
+ 65369 string characters out of 3139264
+ 136333 words of memory out of 3000000
+ 8167 multiletter control sequences out of 15000+200000
+ 34143 words of font info for 63 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,8n,35p,622b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/time
-s/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_041818.pdf (1 page, 59140 bytes).
+ 40i,8n,35p,705b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontnam
+e/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+urw/times/utmri8a.pfb>
+Output written on conference_041818.pdf (1 page, 62206 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
