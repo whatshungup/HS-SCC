@@ -2611,7 +2611,7 @@
 \def\appendixname{Appendix}
 \def\abstractname{Abstract}
 % IEEE specific names
-\def\IEEEkeywordsname{Stichwörter}
+\def\IEEEkeywordsname{Stichwoerter}
 \def\IEEEproofname{Proof}
 
 

@@ -33,24 +33,20 @@ kollaborative Lernumgebung, e-Learning, rollenbasiert
 \end{IEEEkeywords}
 
 \section{Einleitung}
-% Motivation Rollen: - RML seit Jahrzehnten untersucht -> Potenzial (Bachman) \cite{bachman} - berücksichtigen Kontextabhängiges und kollaboratives Verhalten von Objekten \cite{family} - Breite an Bereichen: Datenmodelle, Konzeptmodelle, Programmiersprache (Loebe 2005 ; Guarino und welty 2009, Halpin 2005; Hennicker 2015) - Aktuelle Software: zunehmend komplex und Kontextabhängig(offen,verteilt) -> Nachfrage nach OOP-Alternativen - OO beschreibt Struktur aber nicht dynamisches verhalten. (Reenskaug 2009) - Verhalten kann unabhängig vom Objekt sein - ermöglicht adaptives verhalten\\
-Zum ersten Mal wurden Rollen 1977 von Bachman et al. charakterisiert. Sie beschreiben Rollen als festgelegtes Verhalten, welches von Objekten verschiedener Klassen angenommen werden kann \cite{bachman}. Seitdem wurde der Begriff der Rolle stets wieder aufgegriffen und in verschiedenen Bereichen thematisiert. Diese Bereiche umfassen Ontologien\cite{loebe2005abstract}\cite{guarino2009overview}, Datenmodellierung \cite{halpin2005orm}, Konzeptmodellierung \cite{hennicker2015model} und Programmiersprachen \cite{ubayashi2000roleep}. 
-
-
-
-
+% Motivation Rollen: - RML seit Jahrzehnten untersucht -> Potenzial (Bachman) \cite{bachman} - Breite an Bereichen: Datenmodelle, Konzeptmodelle, Programmiersprache (Loebe 2005 ; Guarino und welty 2009, Halpin 2005; Hennicker 2015) - Aktuelle Software: zunehmend komplex und Kontextabhängig(offen,verteilt) -> Nachfrage nach OOP-Alternativen
+% Motivation, warum ich von rollen erzähle: alternative zu oom, lang und breit untersucht, potenzial, aktuelle Nachfrage
+%oom ist dominierend, trotzdem lohnt es sich alternativen zu überlegen für innovative systeme, welche möglichkeiten aufzeigen könnten, welche mit OO noch nicht erkenntlich waren
+Objektorientierte Programmierung ist das verbreiteste, am häufigsten angewendete und ein weitläufig akzeptiertes Programmierparadigma. Dennoch kann es sich lohnen, Alternativen zu untersuchen. Sie könnten zu innovativen Konzepten führen, welche Mittel und Wege aufzeigen, die mit Objektorientierung nicht erkenntlich waren. Beispielalternativen sind funktionsorientierte Programmierung, welche sich auf die Modellierung von Prozessen fokusierte, oder aspektorientierte Programmierung. Letztere bietet die Möglichkeit zentral Verhalten, das mehrere unabhängige Klassen annehmen müssen, zu definieren. \\ Rollenbasierte Programmierung stellt eine weitere Alternative zur Objektorientierung dar. Zum ersten Mal wurden Rollen 1977 von Bachman et al. charakterisiert. Sie beschreiben Rollen als festgelegtes Verhalten, welches von Objekten verschiedener Klassen angenommen werden kann \cite{bachman}. Seitdem wurde der Begriff der Rolle stets wieder aufgegriffen und in verschiedenen Bereichen thematisiert. Diese Bereiche umfassen Ontologien\cite{loebe2005abstract}\cite{guarino2009overview}, Datenmodellierung \cite{halpin2005orm}, Konzeptmodellierung \cite{hennicker2015model} und Programmiersprachen \cite{ubayashi2000roleep}. In \cite{steimann2000represantation} hat Steimann aktuelle Untersuchungen zu Rollen zusammengefasst und bewertete den Einfluss der Rolle auf die moderne Datenmodellierung als gering. Diese Beobachtung und die Menge an Untersuchungen, sowohl vor als auch nach Steimann, weisen auf ein großes aber ungenutztes Potenzial der Rolle als Programmierparadigma hin. Eine Rolle beschreibt Attribute und Verhalten von Objekten, die in einem bestimmten Kontext miteinander kollaborieren. Ein Objekt kann also je nach Bedarf eine neue Rolle und somit auch neues Verhalten annehmen. Diese Anpassungsfähigkeit kann behilflich sein, da moderne Softwaresysteme zunehmend komplexer und offener werden \cite{murer2008managed}. \\
 %Motivation  Collab E-Learning:- Eigenverantwortung und Initiative- gemeinsamer austausch- höhere motivation durch gruppengefühl, - ausprägung sozialkompetenz- voranschreitende digitalisierung (VON ALLEM) 
-
-
-%Ziel: - Diskussion/Ausblick
-% Aufbau: - Herausforderungen OOM - Herausforderungen Kollaborative e-learning umgebungen - Vorteile/stärken rollenbasierter Ansatz - entstehende Herausforderungen/probleme - Diskussion und Fazit
+% Motivation für kollaborative Lernumgebungen: was sind sie/neu, wachsend -> Potenzial, verbreitung(Arten,beispiele), vorteile: gruppengefühl, aufmerksamkeit, eigeninitiative, globalität, 
+In den meisten Hochschulen werden mittlerweile Lernplattformen verwendet. Neben der Bereitstellung von Lehrmaterialien, dienen sie auch zur Organisation von Lernvorgängen. Als Lernumgebung erleichtern sie den Lernenden die Kommunikation untereinander oder mit Lehrern. 
 In dieser Arbeit wird diskutiert, welche Vorzüge eine rollenbasierte Lernumgebung gegenüber einer klassisch objektorientierten Umsetzung haben könnte. Dazu werden in Kapitel 2 zuerst die Probleme und Einschränkungen der objektorientierten Programmierung und Modellierung zusammengefasst. Nachfolgend wird auf die Herausforderungen von kollaborativen Lernumgebungen eingegangen. Kapitel 3 thematisiert die möglichen Vorteile von rollenbasierten Modellierungs- und Programmiersprachen, welche einer Kollaborativen Lernumgebung von Nutzen sein könnten. Die eventuell entstehenden Herausforderungen und Probleme rollenbasierter Ansätze werden in Kapitel 4 erläutert.
 
 
 
 \section{Herausforderungen State of the art}
 \subsection{oom}
-- beschreiben gut die struktur, nicht das dynamische verhalten
+- beschreiben gut die struktur, nicht das dynamische verhalten (Reenskaug 2009)
 - supplier and customer / Multiple classes / State-dependance
 - 
 \subsection{Herausforderungen Kollab e-Learning}
@@ -86,8 +82,11 @@ In dieser Arbeit wird diskutiert, welche Vorzüge eine rollenbasierte Lernumgebu
 - wo könnten die 26 features helfen? 
 - trennung von aufgaben/problemen
 - Trennung von dynamischem und statischem
-- dynamische veränderungen des systems -> ANPASSBARKEIT
-- langlebigkeit
+- dynamische veränderungen des systems -> ANPASSBARKEIT ZUR LAUFZEIT
+	- gruppen in lernumgebungen nicht vorhersehbar
+- Langlebigkeit
+- berücksichtigen Kontextabhängiges und kollaboratives Verhalten von Objekten \cite{family}
+- Verhalten kann unabhängig vom Objekt sein - ermöglicht adaptives verhalten\\
 - stärker je mehr contextwechsel
 	-je mehr kontexte, desto mehr kontextwechsel
 		-je mehr tasks desto mehr kontextwechsel
