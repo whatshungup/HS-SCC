@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{guarino2009overview}
 Nicola Guarino and Christopher~A Welty.
@@ -17,11 +17,32 @@ Rolf Hennicker, Annabelle Klarl, and Martin Wirsing.
 \newblock In {\em Logic, Rewriting, and Concurrency}, pages 331--360. Springer,
   2015.
 
+\bibitem{family}
+Thomas K{\"u}hn, Max Leuth{\"a}user, Sebastian G{\"o}tz, Christoph Seidl, and
+  Uwe A{\ss}mann.
+\newblock A metamodel family for role-based modeling and programming languages.
+\newblock pages 141--160, 2014.
+
 \bibitem{loebe2005abstract}
 Frank Loebe.
 \newblock Abstract versus social roles—a refined top-level ontological
   analysis.
 \newblock 2005.
+
+\bibitem{murer2008managed}
+Stephan Murer, Carl Worms, and Frank~J Furrer.
+\newblock Managed evolution.
+\newblock {\em Informatik-Spektrum}, 31(6):537--547, 2008.
+
+\bibitem{digitaleHochschule}
+HFD~Winter School.
+\newblock Hochschule im digitalen zeitalter gestalten, 2 2018.
+
+\bibitem{steimann2000representation}
+Friedrich Steimann.
+\newblock On the representation of roles in object-oriented and conceptual
+  modelling.
+\newblock {\em Data \& Knowledge Engineering}, 35(1):83--106, 2000.
 
 \bibitem{ubayashi2000roleep}
 Naoyasu Ubayashi and Tetsuo Tamai.
