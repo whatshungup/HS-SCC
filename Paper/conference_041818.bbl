@@ -1,5 +1,17 @@
 \begin{thebibliography}{10}
 
+\bibitem{casamayor2009intelligent}
+Agustin Casamayor, Analia Amandi, and Marcelo Campo.
+\newblock Intelligent assistance for teachers in collaborative e-learning
+  environments.
+\newblock {\em Computers \& Education}, 53(4):1147--1154, 2009.
+
+\bibitem{dewiyanti2007students}
+Silvia Dewiyanti, Saskia Brand-Gruwel, Wim Jochems, and Nick~J Broers.
+\newblock Students’ experiences with collaborative learning in asynchronous
+  computer-supported collaborative learning environments.
+\newblock {\em Computers in Human Behavior}, 23(1):496--514, 2007.
+
 \bibitem{guarino2009overview}
 Nicola Guarino and Christopher~A Welty.
 \newblock An overview of ontoclean.
@@ -33,6 +45,12 @@ Frank Loebe.
 Stephan Murer, Carl Worms, and Frank~J Furrer.
 \newblock Managed evolution.
 \newblock {\em Informatik-Spektrum}, 31(6):537--547, 2008.
+
+\bibitem{paechter2010students}
+Manuela Paechter, Brigitte Maier, and Daniel Macher.
+\newblock Students’ expectations of, and experiences in e-learning: Their
+  relation to learning achievements and course satisfaction.
+\newblock {\em Computers \& education}, 54(1):222--229, 2010.
 
 \bibitem{digitaleHochschule}
 HFD~Winter School.

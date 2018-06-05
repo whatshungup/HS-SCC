@@ -39,36 +39,46 @@ kollaborative Lernumgebung, e-Learning, rollenbasiert
 Objektorientierte Programmierung ist das verbreiteste, am häufigsten angewendete und ein weitläufig akzeptiertes Programmierparadigma. Dennoch kann es sich lohnen, Alternativen zu untersuchen. Sie könnten zu innovativen Konzepten führen, welche Mittel und Wege aufzeigen, die mit Objektorientierung nicht erkenntlich waren. Beispielalternativen sind funktionsorientierte Programmierung, welche sich auf die Modellierung von Prozessen fokusierte, oder aspektorientierte Programmierung. Letztere bietet die Möglichkeit zentral Verhalten, das mehrere unabhängige Klassen annehmen müssen, zu definieren. \\ Rollenbasierte Programmierung stellt eine weitere Alternative zur Objektorientierung dar. Zum ersten Mal wurden Rollen 1977 von Bachman et al. charakterisiert. Sie beschreiben Rollen als festgelegtes Verhalten, welches von Objekten verschiedener Klassen angenommen werden kann \cite{bachman}. Seitdem wurde der Begriff der Rolle stets wieder aufgegriffen und in verschiedenen Bereichen thematisiert. Diese Bereiche umfassen Ontologien\cite{loebe2005abstract}\cite{guarino2009overview}, Datenmodellierung \cite{halpin2005orm}, Konzeptmodellierung \cite{hennicker2015model} und Programmiersprachen \cite{ubayashi2000roleep}. In \cite{steimann2000representation} hat Steimann aktuelle Untersuchungen zu Rollen zusammengefasst und bewertete den Einfluss der Rolle auf die moderne Datenmodellierung als gering. Diese Beobachtung und die Menge an Untersuchungen, sowohl vor als auch nach Steimann, weisen auf ein großes aber ungenutztes Potenzial der Rolle als Programmierparadigma hin. Eine Rolle beschreibt Attribute und Verhalten von Objekten, die in einem bestimmten Kontext miteinander kollaborieren. Ein Objekt kann also je nach Bedarf eine neue Rolle und somit auch neues Verhalten annehmen. Diese Anpassungsfähigkeit kann behilflich sein, da moderne Softwaresysteme zunehmend komplexer und offener werden \cite{murer2008managed}. \\
 %Motivation  Collab E-Learning:- Eigenverantwortung und Initiative- gemeinsamer austausch- höhere motivation durch gruppengefühl, - ausprägung sozialkompetenz- voranschreitende digitalisierung (VON ALLEM) 
 % Motivation für kollaborative Lernumgebungen: was sind sie/neu, wachsend -> Potenzial, verbreitung(Arten,beispiele), vorteile: gruppengefühl, aufmerksamkeit, eigeninitiative, globalität, 
-In den meisten Hochschulen werden mittlerweile Lernplattformen verwendet. Neben der Bereitstellung von Lehrmaterialien, dienen sie auch zur Organisation von Lernvorgängen. Als Lernumgebung erleichtern sie den Lernenden die Kommunikation untereinander oder mit Lehrern. Der Lernprozess kann somit zu beliebiger Zeit an einem beliebigen Ort mit einem mobilen Endgerät durchgeführt werden. Audience Response Systeme (ARS) werden während Lehrveranstaltungen eingesetzt. Sie ermöglichen es, von allen Zuhörern gleichzeitig Feedback bzw. Input einzuholen.Browserbasiert oder als mobile App verfügbar , benötigen die Systeme keine spezielle Hardware. Primärer Anwendungsfall ist das Stellen von Fachfragen um den Vorbereitungsgrad oder den Lernstand des Publikums zu ermitteln. Es konnte beobachtet, dass das ARS zu einem deutlich höherem Engagement in Vorlesungen führt. Zusätzlich konnten bei Studenten eine kontinuierliche Aufmerksamkeit und höhere Lernleistung festgestellt werden \cite{digitaleHochschule}. Eine andere Anwendung stellen kollaborative Lernumgebungen dar. Sie haben ein einfaches Grundprinzip: Lernende werden in Gruppen geteilt um gemeinsam Aufgaben zu lösen. Sie teilen die Aufgaben untereinander auf und tauschen ihre Kenntnisse aus. Auf diese Weise werden Sozialkompetenz und Organisationsfähigkeit gefördert. Auch die Motivation eines Studierenden, kann durch das Gefühl der Gruppenzugehörigkeit gesteigert werden. Der Fokus auf Kollaboration, sowie die verschiedenen Anwendungsfälle legen nahe, dass Lernumgebungen aus einer rollenbasierten Umsetzung einen Vorteil ziehen könnten. \\ In dieser Arbeit wird diskutiert, welche Vorzüge eine rollenbasierte Lernumgebung gegenüber einer klassisch objektorientierten Umsetzung haben könnte. Dazu werden in Kapitel 2 zuerst Problem und Anforderungen, sowie verschiedene Szenarien in Kollaborativen Lernumgebungen beschrieben. Nachfolgend wird auf die Herausforderungen und Grenzen der objektorientierten Programmierung eingegangen. Kapitel 3 thematisiert die möglichen Vorteile von rollenbasierten Modellierungs- und Programmiersprachen, welche einer Kollaborativen Lernumgebung von Nutzen sein könnten. Die eventuell entstehenden Herausforderungen und Probleme rollenbasierter Ansätze werden in Kapitel 4 erläutert.
+In den meisten Hochschulen werden mittlerweile Lernplattformen verwendet. Neben der Bereitstellung von Lehrmaterialien, dienen sie auch zur Organisation von Lernvorgängen. Als Lernumgebung erleichtern sie den Lernenden die Kommunikation untereinander oder mit Lehrern. Der Lernprozess kann somit zu beliebiger Zeit an einem beliebigen Ort mit einem mobilen Endgerät durchgeführt werden. Audience Response Systeme (ARS) werden während Lehrveranstaltungen eingesetzt. Sie ermöglichen es, von allen Zuhörern gleichzeitig Feedback bzw. Input einzuholen.Browserbasiert oder als mobile App verfügbar , benötigen die Systeme keine spezielle Hardware. Primärer Anwendungsfall ist das Stellen von Fachfragen um den Vorbereitungsgrad oder den Lernstand des Publikums zu ermitteln. Es konnte beobachtet, dass das ARS zu einem deutlich höherem Engagement in Vorlesungen führt. Zusätzlich konnten bei Studenten eine kontinuierliche Aufmerksamkeit und höhere Lernleistung festgestellt werden \cite{digitaleHochschule}. Eine andere Anwendung stellen kollaborative Lernumgebungen dar. Sie haben ein einfaches Grundprinzip: Lernende werden in Gruppen geteilt um gemeinsam Aufgaben zu lösen. Sie teilen die Aufgaben untereinander auf und tauschen ihre Kenntnisse aus. Auf diese Weise werden Sozialkompetenz und Organisationsfähigkeit gefördert. Auch die Motivation eines Studierenden, kann durch das Gefühl der Gruppenzugehörigkeit gesteigert werden. Der Fokus auf Kollaboration, sowie die verschiedenen Anwendungsfälle legen nahe, dass Lernumgebungen aus einer rollenbasierten Umsetzung einen Vorteil ziehen könnten. \\ In dieser Arbeit wird diskutiert, welche Vorzüge eine rollenbasierte Lernumgebung gegenüber einer klassisch objektorientierten Umsetzung haben könnte. Dazu werden in Kapitel 2 zuerst Problem und Anforderungen, sowie verschiedene Szenarien in Kollaborativen Lernumgebungen beschrieben. Nachfolgend wird auf die Herausforderungen und Grenzen der objektorientierten Programmierung eingegangen. Kapitel 3 beschäftigt sich mit dem Konzept der Rolle und verschiedenen rollenbasierten Systemen. Kapitel 4 thematisiert die möglichen Vorteile von rollenbasierten Modellierungs- und Programmiersprachen, welche einer Kollaborativen Lernumgebung von Nutzen sein könnten. Die eventuell entstehenden Herausforderungen und Probleme rollenbasierter Ansätze werden in Kapitel 5 erläutert.
 
 
 
 \section{Herausforderungen State of the art}
+In diesem Kapitel werden die Merkmale einer kollaborativen Lernumgebung gesammelt. %Erweitert werden diese Funktionen mithilfe von allgemeinem Kritikpunkten an Lernumgebungen.
+Ziel ist es, eine Menge von Anforderungen zu bilden, auf die das Konzept eines rollenbasierten Systems angewandt werden kann. 
+
+\subsection{Herausforderungen Kollab e-Learning} 
+\paragraph{Audience Response System(ARS)} Das bereits genannte ARS ist ein System um in Vorlesungen simultan von allen Zuhörern Input einzuholen, beispielsweise um Fachfragen zu beantworten. Diese Fachfragen und die dazugehörigen Antwortmöglichkeiten müssen vorher vom Vortragenden formuliert und im System gespeichert worden sein. Um diese Fragen jederzeit schnell aufrufen zu können, ist ein Zuordnung zur jeweiligen Lehrveranstaltung nötig, möglicherweise in Form eines Katalogs. Es besteht die Möglichkeit, dass eine Person mehrere Kurse als Vortragender leitet oder die Rolle des Schülers annimmt und selbst an Kursen teilnimmt. Genauso kann ein Kurs mehrere wechselnde Lehrer haben.\\ In Seminaren oder ähnlichen Lehrveranstaltung, muss es möglich sein, die Rolle des Vortragenden für einen begrenzten Zeitraum zu übertragen. In dieser Zeit kann der neue Vortragende ebenfalls fachbezogene Fragen stellen und sich Feedback vom Publikum einholen. Die Annahme der Rolle geschieht nur während der Lehrveranstaltung. Die Formulierung der Fragen samt Antworten findet während der Vorbereitung des Vortrags statt. 
+\paragraph{Arbeitsgruppen} Im Rahmen einer Lehrveranstaltung wurden Schüler in Gruppen eingeteilt. In diesen Gruppen sollen sie nun gemeinsam verschiedene Aufgaben lösen. Neben einer zufälligen Zuteilung, kann die Gruppenbildung auf der Lernplattform stattfinden, wo Schüler Gruppen eröffnen oder sich einer vorhandenen anschließen können. In \cite{dewiyanti2007students} befragte Biasutti Studierende zu ihren Eindrücken, nachdem diese in einer kollaborativen Lernumgebung asynchron eine Aufgabe bearbeiteten. Als Kritikpunkte wurde, neben ungleichmäßiger Beteiligung, die Organisation innerhalb der Gruppe genannt. Eine klare Aufgabenverteilung wurde als wünschenswert betrachtet. In \cite{paechter2010students} und \cite{casamayor2009intelligent} wird betont wie wichtig es sei, dass der Lehrer einerseits als kompetenter Ansprechpartner zur Verfügung steht und andererseits die Aktivitäten der Gruppe zum Teil überwacht. Casamayor et al. stellen den Ansatz vor, relevante Statistiken einer Gruppe aufzuzeichnen und bei bestimmten Ereignisse den Lehrer zu benachrichtigen \cite{casamayor2009intelligent}. 
+\paragraph{Offenes Forum} In OPAL\footnote{https://bildungsportal.sachsen.de/opal/} können zu Lehrveranstaltungen offene Foren eröffnet werden. Der Lehrer kann durch einen Eintrag alle Schüler über neue Informationen in Kenntnis setzen. Schüler haben die Gelegenheit Fragen zur Veranstaltung oder zu Aufgaben zu stellen, welche von anderen Schülern oder vom Lehrer beantwortet werden kann.
+\paragraph{Reviews} Enthält eine Lehrveranstaltung eine schriftliche Ausarbeitung, kann jedem Schüler die Arbeit eines anderen zur Bewertung zugewiesen. 
+	
 
 
-\subsection{Herausforderungen Kollab e-Learning}
-- experiences: 
-	- Orga und aufgabenverteilung
-	- Koordinator erwünscht
-	- mehr gruppengefühl erwünscht
-	- ungleichmäßige beteiligung
-- Soziale interaktion nicht immer gewährleistet
-	- soziale interaktion oft auf sehr unpersönlicher ebene
-- intelligence assistant(asynchronous communication):
-	- Notwendigkeit eines "Lehrers" der bei Problemen in Gruppen eingreift
-		- Probleme: Passive Studenten, atypische Teilnahme, gruppen schaffen gar keine tasks, content von Material von niemandem gelesen, keine diskussion begonnen.
-- wechsel zwischen lehrer und lernender
-- Kontexte? Tasks?  
-	- Lehrer und Lernender
-	- Koordinator einer Gruppe
-	- Gruppe suchen
-	- Überwacher / Ansprechpartner
-	- Kursleiter auf Abruf/Bereitschaft
-	- reviewer/reviewee
+%- experiences: 
+%	- Orga und aufgabenverteilung
+%	- Koordinator erwünscht
+%	- mehr gruppengefühl erwünscht
+%	- ungleichmäßige beteiligung
+%- Pitfalls	
+%	- Soziale interaktion nicht immer gewährleistet
+%	- soziale interaktion oft auf sehr unpersönlicher ebene
+%- intelligence assistant(asynchronous communication):
+%	- Notwendigkeit eines "Lehrers" der bei Problemen in Gruppen eingreift
+%		- TriggerProbleme: Passive Studenten, atypische Teilnahme, gruppen schaffen gar keine tasks, content von Material von niemandem gelesen, keine diskussion begonnen.
+%- Tasks/Kontexte  
+%	- Lehrer und Lernender
+%	- Koordinator einer Gruppe
+%	- Gruppe suchen
+%	- Überwacher / Ansprechpartner
+%	- Kursleiter auf Abruf/Bereitschaft
+%	- reviewer/reviewee
+	
+
 	
 \subsection{oom}  
 %Nachteile von oom: etabliert weil, aber fehlerhaft, da nur struktur, aber nicht verhalten, verhalten aber wichtig, deswegen ist oom ineffizient, konkrete beispiele supplier/customer statedependance multipleclassses, eventuell angewandt an kollab e-learning
-So etabliert und verbreitet objektorientierte Programmierung auch ist, hat sie dennoch ihre Grenzen. 
+So etabliert und verbreitet objektorientierte Programmierung auch sein mag, so hat sie dennoch ihre Grenzen. 
 
 
 
@@ -93,7 +103,13 @@ So etabliert und verbreitet objektorientierte Programmierung auch ist, hat sie d
 - stärker je mehr contextwechsel
 	-je mehr kontexte, desto mehr kontextwechsel
 		-je mehr tasks desto mehr kontextwechsel
-- Eventuell Konzept/Diagramm eines Systems? 
+- Kontexte:
+	- Vorlesung
+	- Gruppenarbeit
+	- Offenes Forum
+	
+- Grafische Darstellung von Use Cases
+
 \section{Probleme von Rollen}
 - wenig support
 - uneinigkeit über den begriff 
