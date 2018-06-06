@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.18)  6 JUN 2018 14:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.18)  6 JUN 2018 17:52
 entering extended mode
 **./conference_041818.tex
 (conference_041818.tex
@@ -833,7 +833,47 @@ Underfull \hbox (badness 3375) in paragraph at lines 55--56
 LaTeX Warning: Citation `reenskaug2009dci' on page 2 undefined on input line 83
 .
 
-[2] (conference_041818.bbl
+[2]
+
+LaTeX Warning: Citation `hunter2012lodwick' on page 3 undefined on input line 8
+8.
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 88--92
+\OT1/ptm/m/n/10 Sys-tem mit Vorg[]angen und Ak-tivit[]aten, deren Struk-tur
+ []
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 88--92
+\OT1/ptm/m/n/10 Beze-ich-nung. In [11] analysiert Steimann ver-schiedene
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 88--92
+\OT1/ptm/m/n/10 von" auszudr[]ucken, in-dem die Rollen ,,Empf[]anger" und
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 88--92
+\OT1/ptm/m/n/10 genauer beschreiben. An-der-er-seits hat zum Beispiel die
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--92
+
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 88--92
+\OT1/ptm/m/n/10 In [6] hat Thomas K[]uhn. - RoSI vorstellen - CROM
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--92
+\OT1/ptm/m/n/10 (Com-part-ment Role Ob-jekt Model) vorstellen -Tool:
+ []
+
+(conference_041818.bbl
 Underfull \hbox (badness 3679) in paragraph at lines 10--14
 \OT1/ptm/m/n/8 chronous computer-supported col-lab-o-ra-tive learn-ing en-vi-ro
 n-ments.
@@ -857,18 +897,18 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4762 strings out of 493328
- 66521 string characters out of 3139127
+ 4764 strings out of 493328
+ 66548 string characters out of 3139127
  138736 words of memory out of 3000000
- 8214 multiletter control sequences out of 15000+200000
+ 8216 multiletter control sequences out of 15000+200000
  42712 words of font info for 87 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,8n,35p,2664b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,8n,35p,2671b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
 mr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_041818.pdf (3 pages, 75443 bytes).
+Output written on conference_041818.pdf (3 pages, 77098 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
