@@ -29,6 +29,10 @@ Rolf Hennicker, Annabelle Klarl, and Martin Wirsing.
 \newblock In {\em Logic, Rewriting, and Concurrency}, pages 331--360. Springer,
   2015.
 
+\bibitem{hunter2012lodwick}
+Michael Hunter.
+\newblock The works of francis lodwick, 2012.
+
 \bibitem{family}
 Thomas K{\"u}hn, Max Leuth{\"a}user, Sebastian G{\"o}tz, Christoph Seidl, and
   Uwe A{\ss}mann.
@@ -51,6 +55,12 @@ Manuela Paechter, Brigitte Maier, and Daniel Macher.
 \newblock Students’ expectations of, and experiences in e-learning: Their
   relation to learning achievements and course satisfaction.
 \newblock {\em Computers \& education}, 54(1):222--229, 2010.
+
+\bibitem{reenskaug2009dci}
+Trygve Reenskaug and James~O Coplien.
+\newblock The dci architecture: A new vision of object-oriented programming.
+\newblock {\em An article starting a new blog:(14pp) http://www. artima.
+  com/articles/dci\_vision. html}, 2009.
 
 \bibitem{digitaleHochschule}
 HFD~Winter School.
