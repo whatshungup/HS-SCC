@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.18)  9 JUN 2018 01:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.18)  9 JUN 2018 02:03
 entering extended mode
 **./conference_041818.tex
 (conference_041818.tex
@@ -890,6 +890,42 @@ Underfull \hbox (badness 2818) in paragraph at lines 88--89
 \OT1/ptm/m/n/10 K[]uhn wirft ein, eine Mod-el-lierungssprache sollte nicht
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+\OT1/ptm/m/n/10 nur Konzepte und Beziehun-gen beschreiben, son-dern
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 88--89
+\OT1/ptm/m/n/10 auch die dom[]anenabh[]angigen Beschr[]ankungen [7]. In
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 88--89
+\OT1/ptm/m/n/10 die An-zahl der Beteiligten einer Beziehung be-gren-zen.
+ []
+
+
+Underfull \hbox (badness 4556) in paragraph at lines 88--89
+\OT1/ptm/m/n/10 Beziehun-gen zwis-chen 2 Ob-jek-ten wer-den h[]aufig mit
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 88--89
+\OT1/ptm/m/it/10 ir-reflek-tiv\OT1/ptm/m/n/10 , weswe-gen keine Per-son sich se
+lbst be-w-erten
+ []
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 88--89
+\OT1/ptm/m/n/10 an-derem, dass 2 Beziehun-gen einan-der im-plizieren oder
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
 [3]
 
 LaTeX Warning: Citation `kamina2005selective' on page 4 undefined on input line
@@ -964,7 +1000,7 @@ Underfull \hbox (badness 3679) in paragraph at lines 10--14
 n-ments.
  []
 
-)
+[4])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -976,26 +1012,31 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4] (conference_041818.aux)
+[5
+
+] (conference_041818.aux)
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
  4772 strings out of 493328
  66688 string characters out of 3139127
- 138744 words of memory out of 3000000
+ 140744 words of memory out of 3000000
  8224 multiletter control sequences out of 15000+200000
  42712 words of font info for 87 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,8n,35p,6392b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,8n,35p,7161b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
 mr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_041818.pdf (4 pages, 84384 bytes).
+Output written on conference_041818.pdf (5 pages, 87723 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
+ 35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

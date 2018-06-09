@@ -12,6 +12,11 @@ Silvia Dewiyanti, Saskia Brand-Gruwel, Wim Jochems, and Nick~J Broers.
   computer-supported collaborative learning environments.
 \newblock {\em Computers in Human Behavior}, 23(1):496--514, 2007.
 
+\bibitem{dey2001understanding}
+Anind~K Dey.
+\newblock Understanding and using context.
+\newblock {\em Personal and ubiquitous computing}, 5(1):4--7, 2001.
+
 \bibitem{guarino2009overview}
 Nicola Guarino and Christopher~A Welty.
 \newblock An overview of ontoclean.
@@ -32,6 +37,12 @@ Rolf Hennicker, Annabelle Klarl, and Martin Wirsing.
 \bibitem{hunter2012lodwick}
 Michael Hunter.
 \newblock The works of francis lodwick, 2012.
+
+\bibitem{kamina2005selective}
+Tetsuo Kamina and Tetsuo Tamai.
+\newblock Selective method combination in mixin-based composition.
+\newblock In {\em Proceedings of the 2005 ACM symposium on Applied computing},
+  pages 1269--1273. ACM, 2005.
 
 \bibitem{family}
 Thomas K{\"u}hn, Max Leuth{\"a}user, Sebastian G{\"o}tz, Christoph Seidl, and
@@ -66,6 +77,12 @@ Trygve Reenskaug and James~O Coplien.
 HFD~Winter School.
 \newblock Hochschule im digitalen zeitalter gestalten, 2 2018.
 
+\bibitem{schutze2017analyzing}
+Lars Sch{\"u}tze and Jeronimo Castrillon.
+\newblock Analyzing state-of-the-art role-based programming languages.
+\newblock In {\em Companion to the first International Conference on the Art,
+  Science and Engineering of Programming}, page~9. ACM, 2017.
+
 \bibitem{steimann2000representation}
 Friedrich Steimann.
 \newblock On the representation of roles in object-oriented and conceptual
@@ -82,5 +99,16 @@ Naoyasu Ubayashi and Tetsuo Tamai.
 \bibitem{bachman}
 Charles W.~Bachman and Manilal Daya.
 \newblock The role concept in data models., 01 1977.
+
+\bibitem{zhu2006role}
+Haibin Zhu.
+\newblock Role mechanisms in collaborative systems.
+\newblock {\em International Journal of Production Research}, 44(1):181--193,
+  2006.
+
+\bibitem{zhu2006towards}
+Haibin Zhu and Rob Alkins.
+\newblock Towards role-based programming.
+\newblock In {\em Workshop on Role-Based Collaboration, CSCW}, 2006.
 
 \end{thebibliography}
