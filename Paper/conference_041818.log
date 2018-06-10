@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.18)  9 JUN 2018 02:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.18)  10 JUN 2018 14:17
 entering extended mode
 **./conference_041818.tex
 (conference_041818.tex
@@ -803,180 +803,185 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
+Underfull \hbox (badness 1642) in paragraph at lines 39--43
+\OT1/ptm/m/n/10 am h[]aufigsten angewen-dete Pro-gram-mier-paradigma. Den-
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 46--47
+[]\OT1/ptm/m/n/10 Zhu evaluierte die Um-set-zung der Rolle in com-put-
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1{C:/Users/Hung/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 54.
+LaTeX Font Info:    Try loading font information for U+msa on input line 55.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 54.
+LaTeX Font Info:    Try loading font information for U+msb on input line 55.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
  \OT1/ptm/m/it/10 d) Re-views: [][] \OT1/ptm/m/n/10 Enth[]alt eine Lehrver-anst
 al-tung eine
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 55--56
+Underfull \hbox (badness 3375) in paragraph at lines 56--57
 \OT1/ptm/m/n/10 schriftliche Ausar-beitung, kann je-dem Studieren-den die
  []
 
 [2]
-Underfull \hbox (badness 1496) in paragraph at lines 88--88
+Underfull \hbox (badness 1496) in paragraph at lines 89--89
  \OT1/ptm/m/it/10 b) As-pekt der Re-la-tion: [][] \OT1/ptm/m/n/10 Hier liegt de
 r Fokus, wie
  []
 
 
 LaTeX Warning: Citation `kamai2005selective' on page 3 undefined on input line 
-88.
+89.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
  \OT1/ptm/m/it/10 c) As-pekt der Kon-textabh[]angigkeit: [][] \OT1/ptm/m/n/10 M
 o-bile
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 88--89
+Underfull \hbox (badness 1622) in paragraph at lines 89--90
 \OT1/ptm/m/n/10 Ap-p-lika-tio-nen m[]ussen in der Lage sein, sich an einen
  []
 
 
-Underfull \hbox (badness 2617) in paragraph at lines 88--89
+Underfull \hbox (badness 2617) in paragraph at lines 89--90
 \OT1/ptm/m/n/10 kon-textabh[]angige Rollen an-wen-de-ten, um das Ver-hal-ten
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 88--89
+Underfull \hbox (badness 1527) in paragraph at lines 89--90
 \OT1/ptm/m/n/10 Kon-texts ist nicht ein-deutig definiert. K[]uhn nennt zwei
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 88--89
+Underfull \hbox (badness 1997) in paragraph at lines 89--90
 \OT1/ptm/m/n/10 (Orig-i-nal: \OT1/ptm/m/it/10 Com-part-ments\OT1/ptm/m/n/10 ) b
 eze-ich-net. Ein Beh[]alter stellt
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 88--89
+Underfull \hbox (badness 1715) in paragraph at lines 89--90
 \OT1/ptm/m/n/10 Beh[]alter kann die Ar-beits-gruppe in einer kol-lab-o-ra-tiven
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
 
-Underfull \hbox (badness 2818) in paragraph at lines 88--89
+Underfull \hbox (badness 2818) in paragraph at lines 89--90
 \OT1/ptm/m/n/10 K[]uhn wirft ein, eine Mod-el-lierungssprache sollte nicht
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 \OT1/ptm/m/n/10 nur Konzepte und Beziehun-gen beschreiben, son-dern
  []
 
 
-Underfull \hbox (badness 7397) in paragraph at lines 88--89
+Underfull \hbox (badness 7397) in paragraph at lines 89--90
 \OT1/ptm/m/n/10 auch die dom[]anenabh[]angigen Beschr[]ankungen [9]. In
  []
 
 
-Underfull \hbox (badness 2707) in paragraph at lines 88--89
+Underfull \hbox (badness 2707) in paragraph at lines 89--90
 \OT1/ptm/m/n/10 die An-zahl der Beteiligten einer Beziehung be-gren-zen.
  []
 
 
-Underfull \hbox (badness 4556) in paragraph at lines 88--89
+Underfull \hbox (badness 4556) in paragraph at lines 89--90
 \OT1/ptm/m/n/10 Beziehun-gen zwis-chen 2 Ob-jek-ten wer-den h[]aufig mit
  []
 
 
-Underfull \hbox (badness 1990) in paragraph at lines 88--89
+Underfull \hbox (badness 1990) in paragraph at lines 89--90
 \OT1/ptm/m/it/10 ir-reflek-tiv\OT1/ptm/m/n/10 , weswe-gen keine Per-son sich se
 lbst be-w-erten
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 88--89
+Underfull \hbox (badness 1436) in paragraph at lines 89--90
 \OT1/ptm/m/n/10 an-derem, dass 2 Beziehun-gen einan-der im-plizieren oder
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
 [3]
-Underfull \hbox (badness 3679) in paragraph at lines 94--95
+Underfull \hbox (badness 3679) in paragraph at lines 95--96
 []\OT1/ptm/m/n/10 Wie Steimann und K[]uhn fest-stell-ten, gibt es keine
  []
 
 
-Underfull \hbox (badness 4254) in paragraph at lines 94--95
+Underfull \hbox (badness 4254) in paragraph at lines 95--96
 \OT1/ptm/m/n/10 ein-heitliche Def-i-ni-tion der Rolle [9] [16]. Statt einer
  []
 
 
-Underfull \hbox (badness 2165) in paragraph at lines 94--95
+Underfull \hbox (badness 2165) in paragraph at lines 95--96
 \OT1/ptm/m/n/10 wird, ent-standen viele un-ter-schiedliche Def-i-ni-tio-nen und
 
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 94--95
+Underfull \hbox (badness 1590) in paragraph at lines 95--96
 \OT1/ptm/m/n/10 An-sichten. Steimann nennt als Ur-sache, dass Rollen in
  []
 
 
-Underfull \hbox (badness 2376) in paragraph at lines 94--95
+Underfull \hbox (badness 2376) in paragraph at lines 95--96
 \OT1/ptm/m/n/10 Die Wider-spr[]uche der Ans[]atze m[]ussen nicht unbe-d-ingt
  []
 
 
-Underfull \hbox (badness 6792) in paragraph at lines 94--95
+Underfull \hbox (badness 6792) in paragraph at lines 95--96
 \OT1/ptm/m/n/10 einan-der auss-chlieen. Kam-ina und Tamais Def-i-ni-tion
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 94--95
+Underfull \hbox (badness 4303) in paragraph at lines 95--96
 \OT1/ptm/m/n/10 [8] eines \OT1/ptm/m/it/10 Kon-texts \OT1/ptm/m/n/10 un-ter-sch
 ei-det sich stark von Deys
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 96--98
+Underfull \hbox (badness 1983) in paragraph at lines 97--99
 \OT1/ptm/m/n/10 Pro-gram-mier-sprachen mit Schw-er-punkt auf deren Ve-r-ar-
  []
 
-
-Underfull \hbox (badness 2644) in paragraph at lines 96--98
-\OT1/ptm/m/n/10 SCROLL haben einen Be-fehl aus-gef[]uhrt, wodurch alle
- []
-
-(conference_041818.bbl
+(conference_041818.bbl [4]
 Underfull \hbox (badness 3679) in paragraph at lines 10--14
 \OT1/ptm/m/n/8 chronous computer-supported col-lab-o-ra-tive learn-ing en-vi-ro
 n-ments.
  []
 
-[4])
+)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -998,7 +1003,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  4772 strings out of 493328
  66688 string characters out of 3139127
- 139764 words of memory out of 3000000
+ 141764 words of memory out of 3000000
  8224 multiletter control sequences out of 15000+200000
  42712 words of font info for 87 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1007,7 +1012,7 @@ Here is how much of TeX's memory you used:
 KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
 mr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_041818.pdf (5 pages, 87625 bytes).
+Output written on conference_041818.pdf (5 pages, 88448 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
