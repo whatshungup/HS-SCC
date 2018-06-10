@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.18)  10 JUN 2018 14:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.18)  10 JUN 2018 19:19
 entering extended mode
 **./conference_041818.tex
 (conference_041818.tex
@@ -725,24 +725,24 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 (conference_041818.aux)
 \openout1 = `conference_041818.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 14.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    ... okay on input line 14.
 
 -- Lines per column: 56 (exact).
 (C:\Users\Hung\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
@@ -803,12 +803,24 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-Underfull \hbox (badness 1642) in paragraph at lines 39--43
-\OT1/ptm/m/n/10 am h[]aufigsten angewen-dete Pro-gram-mier-paradigma. Den-
+Underfull \hbox (badness 6364) in paragraph at lines 29--30
+[]\OT1/ptm/b/it/9 Zusammenfassung\OT1/ptm/b/n/9 ---Rollenbasierte Sprachen wer-
+den seit
  []
 
 
-Underfull \hbox (badness 2134) in paragraph at lines 46--47
+Underfull \hbox (badness 1642) in paragraph at lines 40--44
+\OT1/ptm/m/n/10 am h[]aufigsten angewen-dete Pro-gram-mier-paradigma. Den-
+ []
+
+<Images/roleWrapper.PNG, id=1, 279.29344pt x 178.41656pt>
+File: Images/roleWrapper.PNG Graphic file (type png)
+
+<use Images/roleWrapper.PNG>
+Package pdftex.def Info: Images/roleWrapper.PNG used on input line 49.
+(pdftex.def)             Requested size: 223.43504pt x 142.73343pt.
+
+Underfull \hbox (badness 2134) in paragraph at lines 52--53
 []\OT1/ptm/m/n/10 Zhu evaluierte die Um-set-zung der Rolle in com-put-
  []
 
@@ -818,170 +830,186 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [1{C:/Users/Hung/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-]
-LaTeX Font Info:    Try loading font information for U+msa on input line 55.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+] [2 <./Images/roleWrapper.PNG>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 62.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 55.
+LaTeX Font Info:    Try loading font information for U+msb on input line 62.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
- \OT1/ptm/m/it/10 d) Re-views: [][] \OT1/ptm/m/n/10 Enth[]alt eine Lehrver-anst
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+ \OT1/ptm/m/it/10 e) Re-views: [][] \OT1/ptm/m/n/10 Enth[]alt eine Lehrver-anst
 al-tung eine
  []
 
 
-Underfull \hbox (badness 3375) in paragraph at lines 56--57
+Underfull \hbox (badness 3375) in paragraph at lines 63--64
 \OT1/ptm/m/n/10 schriftliche Ausar-beitung, kann je-dem Studieren-den die
  []
 
-[2]
-Underfull \hbox (badness 1496) in paragraph at lines 89--89
+
+Underfull \hbox (badness 5231) in paragraph at lines 91--91
+ \OT1/ptm/m/it/10 c) Rollen als Oberk-lassen: [][] \OT1/ptm/m/n/10 H[]orer und 
+Vor-tra-gen-
+ []
+
+[3]
+Underfull \hbox (badness 1496) in paragraph at lines 96--96
  \OT1/ptm/m/it/10 b) As-pekt der Re-la-tion: [][] \OT1/ptm/m/n/10 Hier liegt de
 r Fokus, wie
  []
 
 
-LaTeX Warning: Citation `kamai2005selective' on page 3 undefined on input line 
-89.
+LaTeX Warning: Citation `kamai2005selective' on page 4 undefined on input line 
+96.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
  \OT1/ptm/m/it/10 c) As-pekt der Kon-textabh[]angigkeit: [][] \OT1/ptm/m/n/10 M
 o-bile
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 89--90
+Underfull \hbox (badness 1622) in paragraph at lines 96--97
 \OT1/ptm/m/n/10 Ap-p-lika-tio-nen m[]ussen in der Lage sein, sich an einen
  []
 
 
-Underfull \hbox (badness 2617) in paragraph at lines 89--90
+Underfull \hbox (badness 2617) in paragraph at lines 96--97
 \OT1/ptm/m/n/10 kon-textabh[]angige Rollen an-wen-de-ten, um das Ver-hal-ten
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 89--90
+Underfull \hbox (badness 1527) in paragraph at lines 96--97
 \OT1/ptm/m/n/10 Kon-texts ist nicht ein-deutig definiert. K[]uhn nennt zwei
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 89--90
+Underfull \hbox (badness 1997) in paragraph at lines 96--97
 \OT1/ptm/m/n/10 (Orig-i-nal: \OT1/ptm/m/it/10 Com-part-ments\OT1/ptm/m/n/10 ) b
 eze-ich-net. Ein Beh[]alter stellt
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 89--90
+Underfull \hbox (badness 1715) in paragraph at lines 96--97
 \OT1/ptm/m/n/10 Beh[]alter kann die Ar-beits-gruppe in einer kol-lab-o-ra-tiven
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
 
-Underfull \hbox (badness 2818) in paragraph at lines 89--90
+Underfull \hbox (badness 2818) in paragraph at lines 96--97
 \OT1/ptm/m/n/10 K[]uhn wirft ein, eine Mod-el-lierungssprache sollte nicht
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 \OT1/ptm/m/n/10 nur Konzepte und Beziehun-gen beschreiben, son-dern
  []
 
 
-Underfull \hbox (badness 7397) in paragraph at lines 89--90
+Underfull \hbox (badness 7397) in paragraph at lines 96--97
 \OT1/ptm/m/n/10 auch die dom[]anenabh[]angigen Beschr[]ankungen [9]. In
  []
 
 
-Underfull \hbox (badness 2707) in paragraph at lines 89--90
+Underfull \hbox (badness 2707) in paragraph at lines 96--97
 \OT1/ptm/m/n/10 die An-zahl der Beteiligten einer Beziehung be-gren-zen.
  []
 
 
-Underfull \hbox (badness 4556) in paragraph at lines 89--90
+Underfull \hbox (badness 4556) in paragraph at lines 96--97
 \OT1/ptm/m/n/10 Beziehun-gen zwis-chen 2 Ob-jek-ten wer-den h[]aufig mit
  []
 
 
-Underfull \hbox (badness 1990) in paragraph at lines 89--90
+Underfull \hbox (badness 1990) in paragraph at lines 96--97
 \OT1/ptm/m/it/10 ir-reflek-tiv\OT1/ptm/m/n/10 , weswe-gen keine Per-son sich se
 lbst be-w-erten
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 89--90
+Underfull \hbox (badness 1436) in paragraph at lines 96--97
 \OT1/ptm/m/n/10 an-derem, dass 2 Beziehun-gen einan-der im-plizieren oder
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
-[3]
-Underfull \hbox (badness 3679) in paragraph at lines 95--96
+<Images/OomRoleProblems.PNG, id=18, 455.45157pt x 244.66406pt>
+File: Images/OomRoleProblems.PNG Graphic file (type png)
+
+<use Images/OomRoleProblems.PNG>
+Package pdftex.def Info: Images/OomRoleProblems.PNG used on input line 101.
+(pdftex.def)             Requested size: 273.27304pt x 146.79956pt.
+
+Overfull \hbox (21.27304pt too wide) in paragraph at lines 101--102
+[][] 
+ []
+
+
+Underfull \hbox (badness 3679) in paragraph at lines 105--106
 []\OT1/ptm/m/n/10 Wie Steimann und K[]uhn fest-stell-ten, gibt es keine
  []
 
 
-Underfull \hbox (badness 4254) in paragraph at lines 95--96
+Underfull \hbox (badness 4254) in paragraph at lines 105--106
 \OT1/ptm/m/n/10 ein-heitliche Def-i-ni-tion der Rolle [9] [16]. Statt einer
  []
 
 
-Underfull \hbox (badness 2165) in paragraph at lines 95--96
+Underfull \hbox (badness 2165) in paragraph at lines 105--106
 \OT1/ptm/m/n/10 wird, ent-standen viele un-ter-schiedliche Def-i-ni-tio-nen und
 
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 95--96
+Underfull \hbox (badness 1590) in paragraph at lines 105--106
 \OT1/ptm/m/n/10 An-sichten. Steimann nennt als Ur-sache, dass Rollen in
  []
 
 
-Underfull \hbox (badness 2376) in paragraph at lines 95--96
+Underfull \hbox (badness 2376) in paragraph at lines 105--106
 \OT1/ptm/m/n/10 Die Wider-spr[]uche der Ans[]atze m[]ussen nicht unbe-d-ingt
  []
 
 
-Underfull \hbox (badness 6792) in paragraph at lines 95--96
+Underfull \hbox (badness 6792) in paragraph at lines 105--106
 \OT1/ptm/m/n/10 einan-der auss-chlieen. Kam-ina und Tamais Def-i-ni-tion
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 95--96
+Underfull \hbox (badness 4303) in paragraph at lines 105--106
 \OT1/ptm/m/n/10 [8] eines \OT1/ptm/m/it/10 Kon-texts \OT1/ptm/m/n/10 un-ter-sch
 ei-det sich stark von Deys
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
-
-Underfull \hbox (badness 1983) in paragraph at lines 97--99
+[4]
+Underfull \hbox (badness 1983) in paragraph at lines 107--109
 \OT1/ptm/m/n/10 Pro-gram-mier-sprachen mit Schw-er-punkt auf deren Ve-r-ar-
  []
 
-(conference_041818.bbl [4]
+(conference_041818.bbl
 Underfull \hbox (badness 3679) in paragraph at lines 10--14
 \OT1/ptm/m/n/8 chronous computer-supported col-lab-o-ra-tive learn-ing en-vi-ro
 n-ments.
  []
 
-)
+[5 <./Images/OomRoleProblems.PNG>])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -993,7 +1021,7 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5
+[6
 
 ] (conference_041818.aux)
 
@@ -1001,10 +1029,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4772 strings out of 493328
- 66688 string characters out of 3139127
- 141764 words of memory out of 3000000
- 8224 multiletter control sequences out of 15000+200000
+ 4786 strings out of 493328
+ 66986 string characters out of 3139127
+ 140790 words of memory out of 3000000
+ 8234 multiletter control sequences out of 15000+200000
  42712 words of font info for 87 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,8n,35p,7161b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1012,9 +1040,9 @@ Here is how much of TeX's memory you used:
 KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
 mr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_041818.pdf (5 pages, 88448 bytes).
+Output written on conference_041818.pdf (6 pages, 116146 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
+ 42 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

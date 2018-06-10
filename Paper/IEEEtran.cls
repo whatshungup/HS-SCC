@@ -2604,12 +2604,12 @@
 \def\listtablename{List of Tables}
 \def\refname{Literaturverweise}
 \def\indexname{Index}
-\def\figurename{Fig.}
+\def\figurename{Abb.}
 \def\tablename{TABLE}
-\@IEEEcompsocconfonly{\def\figurename{Figure}}
+\@IEEEcompsocconfonly{\def\figurename{Abbildung}}
 \def\partname{Part}
 \def\appendixname{Appendix}
-\def\abstractname{Abstract}
+\def\abstractname{Zusammenfassung}
 % IEEE specific names
 \def\IEEEkeywordsname{Stichwoerter}
 \def\IEEEproofname{Proof}
