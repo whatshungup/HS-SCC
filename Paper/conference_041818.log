@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.7.7)  12 JUN 2018 02:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6300 64-bit) (preloaded format=pdflatex 2017.5.18)  5 JUL 2018 15:28
 entering extended mode
 **./conference_041818.tex
 (conference_041818.tex
-LaTeX2e <2016/03/31> patch level 1
+LaTeX2e <2017-04-15>
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 (IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
@@ -113,13 +113,13 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \@IEEEtranrubishbin=\box27
 )
 ** ATTENTION: Overriding command lockouts (line 2).
-("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
+(C:\Users\Hung\AppData\Roaming\MiKTeX\2.9\tex\latex\cite\cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2016/03/10 v2.15b AMS math features
+Package: amsmath 2016/11/05 v2.16a AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
@@ -139,20 +139,20 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count94
-LaTeX Info: Redefining \frac on input line 199.
+LaTeX Info: Redefining \frac on input line 213.
 \uproot@=\count95
 \leftroot@=\count96
-LaTeX Info: Redefining \overline on input line 297.
+LaTeX Info: Redefining \overline on input line 375.
 \classnum@=\count97
 \DOTSCASE@=\count98
-LaTeX Info: Redefining \ldots on input line 394.
-LaTeX Info: Redefining \dots on input line 397.
-LaTeX Info: Redefining \cdots on input line 518.
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
 \Mathstrutbox@=\box28
 \strutbox@=\box29
 \big@size=\dimen128
-LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \macc@depth=\count99
 \c@MaxMatrixCols=\count100
 \dotsspace@=\muskip10
@@ -173,8 +173,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 \multlinegap=\skip45
 \multlinetaggap=\skip46
 \mathdisplay@stack=\toks19
-LaTeX Info: Redefining \[ on input line 2739.
-LaTeX Info: Redefining \] on input line 2740.
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
@@ -192,14 +192,14 @@ Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@posthook=\toks21
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
-File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
-File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -411,6 +411,8 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+0219 (decimal 537)
    defining Unicode char U+021A (decimal 538)
    defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
    defining Unicode char U+1E02 (decimal 7682)
    defining Unicode char U+1E03 (decimal 7683)
    defining Unicode char U+200C (decimal 8204)
@@ -431,12 +433,14 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+2039 (decimal 8249)
    defining Unicode char U+203A (decimal 8250)
    defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
-File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -477,7 +481,7 @@ Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
-File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
    defining Unicode char U+00B7 (decimal 183)
@@ -500,7 +504,7 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\algorithms\algorithmic.sty"
+(C:\Users\Hung\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithms\algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
@@ -521,18 +525,18 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2016/06/02 v1.0s Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
-File: pdftex.def 2016/06/17 v0.06h Graphics/color for pdfTeX
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -546,7 +550,7 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@width=\dimen136
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
-Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
 (textcomp)               4 = 5 + \texteuro
@@ -566,7 +570,7 @@ Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
-File: ts1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+File: ts1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00A4 (decimal 164)
@@ -701,10 +705,10 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+(C:\Users\Hung\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -741,7 +745,7 @@ File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    ... okay on input line 14.
 
 -- Lines per column: 56 (exact).
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(C:\Users\Hung\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count111
 \scratchdimen=\dimen137
@@ -755,7 +759,7 @@ LaTeX Font Info:    ... okay on input line 14.
 \makeMPintoPDFobject=\count116
 \everyMPtoPDFconversion=\toks24
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
@@ -763,7 +767,7 @@ Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -804,29 +808,21 @@ Underfull \hbox (badness 6364) in paragraph at lines 29--30
 den seit
  []
 
-
-Underfull \hbox (badness 1642) in paragraph at lines 40--44
-\OT1/ptm/m/n/10 am h[]aufigsten angewen-dete Pro-gram-mier-paradigma. Den-
- []
-
 <Images/roleWrapper.PNG, id=1, 279.29344pt x 178.41656pt>
 File: Images/roleWrapper.PNG Graphic file (type png)
 
 <use Images/roleWrapper.PNG>
 Package pdftex.def Info: Images/roleWrapper.PNG used on input line 49.
 (pdftex.def)             Requested size: 223.43504pt x 142.73343pt.
+ [1{C:/Users/Hung/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
+
+]
 Underfull \hbox (badness 2134) in paragraph at lines 52--53
 []\OT1/ptm/m/n/10 Zhu evaluierte die Um-set-zung der Rolle in com-put-
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
-] [2 <./Images/roleWrapper.PNG>]
+[2 <./Images/roleWrapper.PNG>]
 LaTeX Font Info:    Try loading font information for U+msa on input line 63.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
@@ -848,9 +844,15 @@ Underfull \hbox (badness 3375) in paragraph at lines 64--65
  []
 
 
-Underfull \hbox (badness 5231) in paragraph at lines 92--92
- \OT1/ptm/m/it/10 c) Rollen als Oberk-lassen: [][] \OT1/ptm/m/n/10 H[]orer und 
-Vor-tra-gen-
+Underfull \hbox (badness 4492) in paragraph at lines 92--92
+ \OT1/ptm/m/it/10 c) Rollen als Oberk-lassen: [][] H[]orer \OT1/ptm/m/n/10 und 
+\OT1/ptm/m/it/10 Vor-tra-gen-
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 97--97
+\OT1/ptm/m/n/10 In der er-sten Kat-e-gorie, wer-den Rollen als \OT1/ptm/m/it/10
+ Teil-nehmer
  []
 
 [3]
@@ -858,10 +860,6 @@ Underfull \hbox (badness 1496) in paragraph at lines 97--97
  \OT1/ptm/m/it/10 b) As-pekt der Re-la-tion: [][] \OT1/ptm/m/n/10 Hier liegt de
 r Fokus, wie
  []
-
-
-LaTeX Warning: Citation `kamai2005selective' on page 4 undefined on input line 
-97.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 97--99
@@ -885,15 +883,15 @@ Underfull \hbox (badness 1527) in paragraph at lines 97--99
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 97--99
+Underfull \hbox (badness 1776) in paragraph at lines 97--99
 \OT1/ptm/m/n/10 (Orig-i-nal: \OT1/ptm/m/it/10 Com-part-ments\OT1/ptm/m/n/10 ) b
-eze-ich-net. Ein Beh[]alter stellt
+eze-ich-net. Ein \OT1/ptm/m/it/10 Beh[]alter \OT1/ptm/m/n/10 stellt
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 97--99
-\OT1/ptm/m/n/10 Beh[]alter kann die Ar-beits-gruppe in einer kol-lab-o-ra-tiven
-
+Underfull \hbox (badness 1708) in paragraph at lines 97--99
+\OT1/ptm/m/n/10 Beh[]alter kann die \OT1/ptm/m/it/10 Ar-beits-gruppe \OT1/ptm/m
+/n/10 in einer kol-lab-o-ra-tiven
  []
 
 
@@ -902,23 +900,24 @@ Underfull \hbox (badness 2818) in paragraph at lines 97--99
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--99
-\OT1/ptm/m/n/10 nur Konzepte und Beziehun-gen beschreiben, son-dern
+Underfull \hbox (badness 4132) in paragraph at lines 97--99
+\OT1/ptm/m/n/10 die dom[]anenabh[]angigen Beschr[]ankungen [9]. In vie-len
  []
 
 
-Underfull \hbox (badness 7397) in paragraph at lines 97--99
-\OT1/ptm/m/n/10 auch die dom[]anenabh[]angigen Beschr[]ankungen [9]. In
- []
-
-
-Underfull \hbox (badness 2707) in paragraph at lines 97--99
-\OT1/ptm/m/n/10 die An-zahl der Beteiligten einer Beziehung be-gren-zen.
+Underfull \hbox (badness 2080) in paragraph at lines 97--99
+\OT1/ptm/m/n/10 Ein-schr[]ankungen k[]onnen beispiel-sweise \OT1/ptm/m/it/10 ka
+r-di-naler \OT1/ptm/m/n/10 Natur
  []
 
 
 Underfull \hbox (badness 4556) in paragraph at lines 97--99
 \OT1/ptm/m/n/10 Beziehun-gen zwis-chen 2 Ob-jek-ten wer-den h[]aufig mit
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 97--99
+\OT1/ptm/m/n/10 math-e-ma-tis-chen Eigen-schaften beschrieben. Im Beispiel
  []
 
 
@@ -930,6 +929,12 @@ lbst be-w-erten
 
 Underfull \hbox (badness 1436) in paragraph at lines 97--99
 \OT1/ptm/m/n/10 an-derem, dass 2 Beziehun-gen einan-der im-plizieren oder
+ []
+
+
+Underfull \hbox (badness 3838) in paragraph at lines 97--99
+\OT1/ptm/m/it/10 Vorkom-mens-beschr[]ankungen \OT1/ptm/m/n/10 genannt. Sie bes-
+timmt, von
  []
 
 
@@ -995,24 +1000,20 @@ Underfull \hbox (badness 1983) in paragraph at lines 109--111
 \OT1/ptm/m/n/10 Pro-gram-mier-sprachen mit Schw-er-punkt auf deren Ve-r-ar-
  []
 
-<Images/collabLearningBehavorial.PNG, id=22, 531.9875pt x 562.1pt>
+<Images/collabLearningBehavorial.PNG, id=22, 531.9875pt x 582.175pt>
 File: Images/collabLearningBehavorial.PNG Graphic file (type png)
 
 <use Images/collabLearningBehavorial.PNG>
 Package pdftex.def Info: Images/collabLearningBehavorial.PNG used on input line
  115.
-(pdftex.def)             Requested size: 212.79123pt x 224.83601pt.
-
-Underfull \hbox (badness 1845) in paragraph at lines 120--121
-\OT1/ptm/m/n/10 mod-el-liert. Das Sys-tem soll alle Szenar-ien, beschrieben
- []
-
+(pdftex.def)             Requested size: 212.79123pt x 232.86588pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
-
+[5 <./Images/OomRoleProblems.PNG> <./Images/collabLearningBehavorial.PNG (PNG c
+opy)>]
 Underfull \hbox (badness 7081) in paragraph at lines 122--123
 []\OT1/ptm/m/n/10 Zwar sind alle Rollen en-thal-ten, den-noch ist der
  []
@@ -1039,27 +1040,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
-[5 <./Images/OomRoleProblems.PNG> <./Images/collabLearningBehavorial.PNG (PNG c
-opy)>]
-Underfull \hbox (badness 2426) in paragraph at lines 124--125
-\OT1/ptm/m/n/10 nur einen Re-vie-wee be-w-erten und umgekehrt. Dadurch
+
+Underfull \hbox (badness 1748) in paragraph at lines 124--125
+\OT1/ptm/m/n/10 umge-setzt wer-den. In der Mod-el-lierung wird daf[]ur der
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 124--125
-\OT1/ptm/m/n/10 ist noch nicht ber[]ucksichtigt, dass ein Studieren-der in
+Underfull \hbox (badness 1389) in paragraph at lines 124--125
+\OT1/ptm/m/it/10 Ausar-beitun-gen\OT1/ptm/m/n/10 , \OT1/ptm/m/it/10 Diskus-sio-
+nen \OT1/ptm/m/n/10 und \OT1/ptm/m/it/10 Ar-beits-grup-pen\OT1/ptm/m/n/10 . Dur
+ch
  []
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 124--125
-\OT1/ptm/m/n/10 mehreren Kursen \OT1/ptm/m/it/10 Re-viewer \OT1/ptm/m/n/10 sein
- kann und somit auch
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+\OT1/ptm/m/n/10 seine Beh[]altereigenschaften wer-den alle Ob-jekte und
  []
 
 
-Underfull \hbox (badness 3098) in paragraph at lines 124--125
-\OT1/ptm/m/n/10 wird daf[]ur ein \OT1/ptm/m/it/10 Kon-text \OT1/ptm/m/n/10 ver-
-wen-det.Das Vor-bild ist das
+Underfull \hbox (badness 3199) in paragraph at lines 124--125
+\OT1/ptm/m/n/10 be-tra-chtet wird, wer-den kurzspez-i-fis-che An-gele-gen-heite
+n
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+\OT1/ptm/m/n/10 wie zum Beispiel Zu-gangs-berech-ti-gun-gen er-le-ichtert.
+ []
+
+
+Underfull \hbox (badness 3428) in paragraph at lines 124--125
+\OT1/ptm/m/it/10 Ko-or-di-na-tor \OT1/ptm/m/n/10 und \OT1/ptm/m/it/10 Pro-tokol
+-lant \OT1/ptm/m/n/10 ein-mal vergeben wer-den.
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 124--125
+\OT1/ptm/m/n/10 Alle an-deren bleiben ein-fache \OT1/ptm/m/it/10 Grup-pen-mit-g
+lieder\OT1/ptm/m/n/10 . Jede
  []
 
 
@@ -1119,24 +1137,21 @@ Before submitting the final camera ready copy, remember to:
 
 [8
 
-] (conference_041818.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+] (conference_041818.aux) ) 
 Here is how much of TeX's memory you used:
- 4792 strings out of 493335
- 67200 string characters out of 3139264
- 141412 words of memory out of 3000000
- 8233 multiletter control sequences out of 15000+200000
- 42712 words of font info for 87 fonts, out of 3000000 for 9000
+ 4799 strings out of 493328
+ 67506 string characters out of 3139127
+ 140790 words of memory out of 3000000
+ 8245 multiletter control sequences out of 15000+200000
+ 41605 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,8n,35p,6834b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/time
-s/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_041818.pdf (8 pages, 240012 bytes).
+ 39i,8n,35p,6856b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r
+.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/
+times/utmri8a.pfb>
+Output written on conference_041818.pdf (8 pages, 240873 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
