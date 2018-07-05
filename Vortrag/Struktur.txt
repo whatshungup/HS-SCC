@@ -1,0 +1,12 @@
+- Einleitung
+	- thema,Motivation (1)
+	- begriffe (rollenbasiert, lernumgebungen)
+- Gliederung (1)
+- typische anforderungen (2)
+	- Was sind kollaborative lernumgebungen? 
+		- Plattformen die die kommunikation zwischen lehrnenden und Lehrern unterstützen
+		- helfen bei organisation, bereitstellung von material,
+- probleme der oom mit rollen(4)
+- konzept der rolle + vorteile (4)
+	- verwandte arbeiten (2)
+- nachteile/aktuelle Sprachen (2)

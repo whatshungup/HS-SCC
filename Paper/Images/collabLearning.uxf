@@ -190,11 +190,11 @@ Gruppenmitglied
     <coordinates>
       <x>774</x>
       <y>576</y>
-      <w>27</w>
+      <w>108</w>
       <h>72</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
+    <additional_attributes>10.0;60.0;100.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
